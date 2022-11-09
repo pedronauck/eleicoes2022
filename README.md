@@ -20,7 +20,7 @@ Como podem notar, nos gráficos de baixo existe um padrão que é quase idêntic
 
 ## Regiões Norte e Nordeste por número de votantes total
 
-Aprofundando mais esse estudo, se analisarmos o mesmo gráfico usando como parâmetro o número de votantes total de cada cidade, a diferença de padrão começa a se aparelhar, porém a disparidade de votos para um candidato é muito superior nos modelos de urnas antigo, chegando a mais de 3x o número de votos total quando comparado com os modelos das urnas novas.
+Aprofundando mais esse estudo, se analisarmos o mesmo gráfico usando como parâmetro o número de votantes total de cada cidade, a diferença de padrão começa a se aparelhar, porém a quantidade de votos para o candidato 13 (Lula) é muito superior nos modelos de urnas antigo, **chegando a mais de 3x o número de votos total quando comparado com os modelos das urnas novas**, junto com a margem de diferença de votos entre os candidatos que também aumenta bastante.
 
 #### Cidades com menos de 500.000 votantes
 <img width="997" alt="CleanShot 2022-11-08 at 20 14 31@2x" src="https://user-images.githubusercontent.com/2029172/200951056-26bcf751-2f47-4b4d-8fc4-b28723e74264.png">
@@ -36,7 +36,7 @@ Aprofundando mais esse estudo, se analisarmos o mesmo gráfico usando como parâ
 
 ## Regiões Sul, Sudeste e Centro Oeste por número de votantes total
 
-Se colocarmos a mesma amostra dos gráficos acima, porém pegando como base as regiões Sul, Sudeste e Centro Oeste, conseguimos observar também um aumento muito grande no número total de votos no modelos das urnas antigas, porém a diferença entre os candidatos permanece semelhante quando comparada com os modelo das urnas novas, não havendo uma diferença brutal como nos gráficos acima.
+Se colocarmos a mesma amostra dos gráficos acima, porém pegando como base as regiões Sul, Sudeste e Centro Oeste, conseguimos observar também um aumento muito grande no número total de votos no modelos das urnas antigas, **porém a diferença de votos entre os candidatos permanece semelhante** quando comparada com os modelo das urnas novas, não havendo uma diferença brutal como nos gráficos acima.
 
 #### Cidades com menos de 500.000 votantes
 <img width="998" alt="CleanShot 2022-11-09 at 14 10 08@2x" src="https://user-images.githubusercontent.com/2029172/200953449-3702c9bf-33ab-4e91-a3aa-ced35c7f5509.png">
